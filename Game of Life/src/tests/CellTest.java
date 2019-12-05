@@ -11,6 +11,7 @@ import logic.Cell;
 
 class CellTest {
 
+	
 	@Test
 	void testGetNeighbours() {
 		

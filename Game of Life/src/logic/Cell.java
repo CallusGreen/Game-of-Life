@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Cell {
 
+	
 	// ------------ Class Variables ------------ //
 
 	private int xCoordinate;

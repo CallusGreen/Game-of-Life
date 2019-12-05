@@ -13,6 +13,7 @@ import logic.Grid;
 
 class GridTest {
 
+	
 	@Test
 	void testHowManyLiveNeighbours() {
 		

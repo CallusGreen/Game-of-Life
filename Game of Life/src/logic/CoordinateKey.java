@@ -2,6 +2,7 @@ package logic;
 
 public class CoordinateKey {
 	
+	
 	private final int x;
 	private final int y;
 	

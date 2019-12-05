@@ -7,6 +7,7 @@ import logic.CoordinateKey;
 
 class CoordinateKeyTest {
 
+	
 	@Test
 	void testHashCodeIsTheSame() {
 		
